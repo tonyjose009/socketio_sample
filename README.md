@@ -17,7 +17,7 @@ I've used SocketIO library for implementing websocket.
 
 * Run the server    - node server.js
 
-* See the resut     - Open the url http://localhost:3000/ in two browsers
+* See the result     - Open the url http://localhost:3000/ in two browsers
 
 
 Thats it. Happy Chatting :D
