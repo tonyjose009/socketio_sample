@@ -1,5 +1,5 @@
 
-# Simple Chat Application Web Page using SocketIO 
+# Simple Web Chat Application using SocketIO 
 
 A simple web page with chat functionality.
 
