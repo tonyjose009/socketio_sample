@@ -1,5 +1,5 @@
 
-# Sample Chat Application Web Page using SocketIO 
+# Simple Chat Application Web Page using SocketIO 
 
 A simple web page with chat functionality.
 
@@ -9,7 +9,9 @@ I've used SocketIO library for implementing websocket.
 
 Install nodejs  - https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
 
-Clone this repo - git@github.com:tonyjose009/socketio_sample.git
+Install socketio golbally - npm install socket.io -g
+
+Clone this repo - git clone git@github.com:tonyjose009/socketio_sample.git
 
 cd socketio_sample/
 
