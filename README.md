@@ -15,7 +15,9 @@ cd socketio_sample/
 
 node server.js
 
+Oppen the url http://localhost:3000 in two browsers
 
-open the url http://localhost:3000 in two browsers, here we go. Happy Chatting
+
+Thats it. Happy Chatting
  
 
