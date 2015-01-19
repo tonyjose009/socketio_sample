@@ -20,6 +20,6 @@ I've used SocketIO library for implementing websocket.
 * See the result     - Open the url http://localhost:3000/ in two browsers
 
 
-Thats it. Happy Chatting :D
+Thats it.
  
 
